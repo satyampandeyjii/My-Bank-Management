@@ -34,6 +34,5 @@ To get started with the Bank Account Management project, follow these steps:
    ```shell
    git clone https://github.com/satyampandeyjii/my-bank-management.git
 
-2. Open the index.html file in your web browser to access the application.
-       cd my-bank-management
+
 
